@@ -1,0 +1,32 @@
+@font-face {
+  font-family: qatarfont;
+  src: url(../public/Qatar2022-Bold.otf);
+}
+
+html, body, #root {
+  min-height: 100%;
+}
+
+body {
+  background: #6F0E2D;
+ background: radial-gradient( #6F0E2D 30%, #000000 100%);
+}
+
+body {
+  margin: 0;
+  font-family: qatarfont !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.copaaovivo{
+  margin-top: 0;
+  color:#daa520
+}
+h2{
+  margin-bottom:0
+}

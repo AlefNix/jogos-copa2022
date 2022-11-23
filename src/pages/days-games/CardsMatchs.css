@@ -1,0 +1,20 @@
+.cards{
+    min-width: 275px;
+    background: "#17753005";
+    background-image: linear-gradient(to right bottom, #ffffff05, #d1c5d705, #b08aa605, #924f6c05, #6f0e2d);
+    border-radius: 50px !important;
+    backdrop-filter: blur(4px) !important;
+    -webkit-backdrop-filter: blur(4px)  !important;
+    background-color: rgba(255, 255, 255, 0.05) !important;
+}
+.css-heg063-MuiTabs-flexContainer{
+    backdrop-filter: blur(9px) saturate(200%) !important;
+    -webkit-backdrop-filter: blur(9px) saturate(200%) !important;
+    background-color: rgba(255, 255, 255, 0.05) !important;
+}
+.textoSombra{
+    text-shadow: 2px -2px 13px #000000;
+    text-shadow: 2px 2px 13px #000;
+    text-shadow: -2px -2px 13px #000;
+    text-shadow: -2px 2px 13px #000;
+}
